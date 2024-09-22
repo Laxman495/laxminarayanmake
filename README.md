@@ -1,2 +1,2 @@
-# laxminarayanmake
-Data Science 
+# Laxminarayanmake
+Data Scientist
